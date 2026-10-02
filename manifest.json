@@ -1,0 +1,10 @@
+{
+  "name":"Consulta Placas Mercosul",
+  "short_name":"Placas Mercosul",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#f3f6fa",
+  "theme_color":"#0b57d0",
+  "description":"Consulta offline das séries de placas Mercosul por UF.",
+  "icons":[]
+}
